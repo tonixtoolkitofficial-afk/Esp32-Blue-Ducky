@@ -43,8 +43,8 @@
 ⚙️ Smartphone (Android) 📱
 
   IDE (Windows Working Environment) 
+  <video src="ESP32%20SETUP.mp4" controls width="100%"></video>
   
-  💻<video src="ESP32 SETUP.mp4" controls width="100%"></video>
 
 
 ## DEVELOPER ##
