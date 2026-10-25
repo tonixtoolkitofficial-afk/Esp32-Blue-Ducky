@@ -42,7 +42,10 @@
 
 ⚙️ Smartphone (Android) 📱
 
-  IDE (Windows Working Environment) 💻
+  IDE (Windows Working Environment) 
   
+  💻<video src="ESP32 SETUP.mp4" controls width="100%"></video>
+
+
 ## DEVELOPER ##
 `@TONIX`
