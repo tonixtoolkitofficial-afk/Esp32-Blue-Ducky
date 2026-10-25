@@ -13,6 +13,10 @@
    Power Up`: ⚡
    Flash the .bin code now. Use this website to flash
    https://esptool.spacehuhn.com/
+# FLASHING INSTRUCTION
+  bootloader.1.bin          0X1000
+  partitions.bin            0X8000
+  esp32bluduky.bin          0X10000
 
 ⚙️*Provide power supply to the ESP32 board via USB or an external battery source.
   Bluetooth Connection*: 📱🔗
