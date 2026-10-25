@@ -11,7 +11,7 @@
 🌏 `Flash Firmware:` 📥
   `Flash/Install the .bin file onto your ESP32 board using your preferred ESP flashing tool.
    Power Up`: ⚡
-   Flash the .bin code now. Use this website to flash it. Is it good to use? 
+   Flash the .bin code now. Use this website to flash
    https://esptool.spacehuhn.com/
 
 ⚙️*Provide power supply to the ESP32 board via USB or an external battery source.
@@ -26,7 +26,7 @@
 # Automated Execution: 🤖
   The device automatically opens Google on your phone. 🔍
   It automatically types and searches on Google. ⌨️
-  It automatically starts playing the specified YouTube video. 🎥▶️
+  It automatically starts playing the specified video. 🎥▶️
 
 # Requirements
 
