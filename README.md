@@ -6,13 +6,13 @@
   FOR EDUCATIONAL PURPOSES AND CYBERSECURITY TESTING ONLY.
   This project is created solely for educational purposes, security research, and testing. Unauthorized use on devices without explicit permission is      strictly prohibited and illegal. The developer assumes no responsibility or liability for any misuse or damage caused by this software.
  ![image](image.png)
-# How It Works & Setup Instructions
+# How It Works & Instalation 
 
-🌏Flash Firmware: 📥
+🌏 `Flash Firmware:` 📥
   `Flash/Install the .bin file onto your ESP32 board using your preferred ESP flashing tool.
-  Power Up`: ⚡
-  Flash the .bin code now. Use this website to flash it. Is it good to use? 
-  https://esptool.spacehuhn.com/
+   Power Up`: ⚡
+   Flash the .bin code now. Use this website to flash it. Is it good to use? 
+   https://esptool.spacehuhn.com/
 
 ⚙️*Provide power supply to the ESP32 board via USB or an external battery source.
   Bluetooth Connection*: 📱🔗
@@ -31,8 +31,12 @@
 # Requirements
 
 ⚙️ ESP32 Development Board 
+
 ⚙️ Power Cable / Battery Source 🔋
+
 ⚙️ Smartphone (Android) 📱
+
   IDE (Windows Working Environment) 💻
+  
 ## DEVELOPER ##
 `@TONIX`
