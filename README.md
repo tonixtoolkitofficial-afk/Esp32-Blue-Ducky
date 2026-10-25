@@ -3,8 +3,8 @@
 
 # ⚠️ Disclaimer⚠️
 
-  FOR EDUCATIONAL PURPOSES AND CYBERSECURITY TESTING ONLY.
-  This project is created solely for educational purposes, security research, and testing. Unauthorized use on devices without explicit permission is      strictly prohibited and illegal. The developer assumes no responsibility or liability for any misuse or damage caused by this software.
+  `FOR EDUCATIONAL PURPOSES AND CYBERSECURITY TESTING ONLY.
+  This project is created solely for educational purposes, security research, and testing. Unauthorized use on devices without explicit permission is      strictly prohibited and illegal. The developer assumes no responsibility or liability for any misuse or damage caused by this software.`
  ![image](image.png)
 # How It Works & Instalation 
 
