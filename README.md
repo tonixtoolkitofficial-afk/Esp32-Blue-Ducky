@@ -23,10 +23,10 @@
 ⚙️*Provide power supply to the ESP32 board via USB or an external battery source.
   Bluetooth Connection*: 📱🔗
 
-⚙️ *Turn on Bluetooth on your mobile device and connect to the device named iPhone.
+⚙️ *Turn on Bluetooth on your mobile device and connect to the device named "Bluedecky".
    Pairing & Automations*: 📲⚙️
 
-⚙️ *Pair your Android smartphone with the ESP32 BlueDecky (Bluetooth device name: iPhone).
+⚙️ *Pair your Android smartphone with the ESP32 BlueDecky (Bluetooth device name:"Bluedecky).
    Ensure your mobile device has an active internet connection*. 🌐
 
 # Automated Execution: 🤖
@@ -43,9 +43,8 @@
 ⚙️ Smartphone (Android) 📱
 
   IDE (Windows Working Environment) 
-  <video src="ESP32%20SETUP.mp4" controls width="100%"></video>
   
-
+  
 
 ## DEVELOPER ##
 `@TONIX`
