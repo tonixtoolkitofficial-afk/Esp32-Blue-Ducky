@@ -34,3 +34,5 @@
 ⚙️ Power Cable / Battery Source 🔋
 ⚙️ Smartphone (Android) 📱
   IDE (Windows Working Environment) 💻
+## DEVELOPER ##
+`@TONIX`
