@@ -1,9 +1,10 @@
 
-🚀 "ESP32 BLUEDECKY"
+# "ESP32 BLUEDECKY"🦆
+
 ⚠️ Disclaimer⚠️
 
-
-  FOR EDUCATIONAL PURPOSES AND CYBERSECURITY TESTING ONLY.
+  FOR EDUCATIONAL PURPOSES AND CYBERSECURITY TESTING     ONLY.
+  
   This project is created solely for educational purposes, security research, and testing. Unauthorized use on devices without explicit permission is strictly prohibited and illegal. The developer assumes no responsibility or liability for any misuse or damage caused by this software.
 
 ⚙️ How It Works & Setup Instructions
