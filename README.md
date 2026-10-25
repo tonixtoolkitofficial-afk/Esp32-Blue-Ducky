@@ -7,7 +7,7 @@
   
   This project is created solely for educational purposes, security research, and testing. Unauthorized use on devices without explicit permission is strictly prohibited and illegal. The developer assumes no responsibility or liability for any misuse or damage caused by this software.
 
-⚙️ How It Works & Setup Instructions
+# How It Works & Setup Instructions
 
 🌏Flash Firmware: 📥
   Flash/Install the .bin file onto your ESP32 board using your preferred ESP flashing tool.
@@ -20,12 +20,12 @@
 ⚙️Pair your Android smartphone with the ESP32 BlueDecky (Bluetooth device name: iPhone).
   Ensure your mobile device has an active internet connection. 🌐
 
-⚙️Automated Execution: 🤖
+# Automated Execution: 🤖
   The device automatically opens Google on your phone. 🔍
   It automatically types and searches on Google. ⌨️
   It automatically starts playing the specified YouTube video. 🎥▶️
 
-🛠️ Requirements
+# Requirements
 
 ⚙️ESP32 Development Board 🔌
 ⚙️Power Cable / Battery Source 🔋
