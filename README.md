@@ -8,10 +8,10 @@ This project is created solely for educational purposes, security research, and 
 
 ---
 
-### 🌟 WHAT'S NEW IN THIS UPDATE
-- **Wi-Fi Admin Panel (http://192.168.4.1):** ഡിവൈസിന്റെ Wi-Fi ബോർഡ് ആക്‌സസ്സ് പോയിന്റിലേക്ക് കണക്ട് ചെയ്ത് ബ്രൗസറിൽ `192.168.4.1` വഴി അഡ്മിൻ പാനൽ ലഭ്യമാകും.
-- **Automatic Keylogger:** സെറ്റ് ചെയ്ത ഫേംവെയർ പശ്ചാത്തലത്തിൽ ഓട്ടോമാറ്റിക് ആയി കീലോഗർ ആയി പ്രവർത്തിക്കും.
-- **Custom Payload Control:** അഡ്മിൻ പാനൽ വഴി മുൻകൂട്ടി തയ്യാറാക്കിയ കോഡുകൾ കസ്റ്റമൈസ് ചെയ്യാനും പുതിയ കമാൻഡുകൾ ലൈവായി അയക്കാനും സാധിക്കും.
+### 🌟 WHAT'S NEW IN THIS UPDATE (v2.0.0)
+- **Wi-Fi Admin Panel (http://192.168.4.1):** Connect to the device's Wi-Fi Access Point and access the admin panel via browser at `192.168.4.1`.
+- **Automatic Keylogger:** The firmware runs an automatic keylogger in the background.
+- **Custom Payload Control:** Easily customize pre-set scripts and send live commands directly through the admin panel.
 
 ---
 
@@ -21,7 +21,7 @@ This project is created solely for educational purposes, security research, and 
 Flash/Install the `.bin` files onto your ESP32 board using your preferred ESP flashing tool.
 
 ⚡ **Power Up:**
-Flash the `.bin` code now. Use this website to flash:
+Flash the `.bin` code now using this web flasher:
 [https://esptool.spacehuhn.com/](https://esptool.spacehuhn.com/)
 
 ---
