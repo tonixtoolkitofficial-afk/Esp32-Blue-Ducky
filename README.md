@@ -14,7 +14,7 @@ This project is created solely for educational purposes, security research, and 
 - **Custom Payload Control:** Easily customize pre-set scripts and send live commands directly through the admin panel.
 
 ---
-
+![image](IMG_20261108_234210.jpg)
 # How It Works & Installation
 
 🌏 **Flash Firmware:** 📥
